@@ -1,6 +1,6 @@
 {
   "name": "wuchenhtml2pdf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/html2pdf.js",
   "files": [
@@ -41,7 +41,6 @@
     "chai-spies": "^1.0.0",
     "commander": "^7.2.0",
     "core-js": "^3.16.0",
-
     "mocha": "^6.1.4",
     "pdftest": "^0.3.0",
     "rimraf": "^2.6.2",

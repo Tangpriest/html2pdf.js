@@ -1,5 +1,5 @@
 /*!
- * wuchenhtml2pdf v0.0.1
+ * wuchenhtml2pdf v0.0.3
  * Copyright (c) 2021 Erik Koopmans
  * Released under the MIT License.
  */
