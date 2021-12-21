@@ -8,6 +8,8 @@ const banner = `${pkg.name} v${pkg.version}
 Copyright (c) ${(new Date).getFullYear()} Erik Koopmans
 Released under the ${pkg.license} License.`;
 
+// karma-webpack-preprocessor
+
 module.exports = env => {
   const isDev = env.dev;
   const mode = isDev ? 'production' : 'development';
