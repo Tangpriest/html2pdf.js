@@ -1,8 +1,8 @@
 {
   "name": "wuchenhtml2pdf",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
-  "main": "dist/html2pdf.js",
+  "main": "dist/html2pdf.bundle.js",
   "files": [
     "/src",
     "/dist"
